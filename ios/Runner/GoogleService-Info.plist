@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>API_KEY</key>
+	<string>AIzaSyC5OBho4Kw0IfjGPMjsqagvuMyW_VHAFD0</string>
+	<key>GCM_SENDER_ID</key>
+	<string>1035469685032</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.fpRpAuth</string>
+	<key>PROJECT_ID</key>
+	<string>firebase-riverpod-auth-eb</string>
+	<key>STORAGE_BUCKET</key>
+	<string>firebase-riverpod-auth-eb.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:1035469685032:ios:752e664f833ae05f71101d</string>
+</dict>
+</plist>

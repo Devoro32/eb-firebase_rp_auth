@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1035469685032",
+    "project_id": "firebase-riverpod-auth-eb",
+    "storage_bucket": "firebase-riverpod-auth-eb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1035469685032:android:e69c5f72d3d5e33671101d",
+        "android_client_info": {
+          "package_name": "com.example.fp_rp_auth"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCi210dp6kbWScUA6SSyYPnBhakz3_rjc8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
